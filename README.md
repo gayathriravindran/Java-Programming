@@ -32,4 +32,13 @@
 
     Constant is the one which doesn't change, it should be in UPPERCASE. 
 
-<ol>
+<li> Generic types naming conventions </li>
+    
+    collection elements are represented as "E", Letter "T" is used for typically recommended. Letter "S" Service loader, and K,V is used for Key Value pair. 
+   
+<li>Enumeration Naming conventions:</li>
+
+    Enumeration should be all in UPPERCASE. 
+    > enum Direction {NORTH, EAST, SOUTH, WEST}
+
+</ol>
